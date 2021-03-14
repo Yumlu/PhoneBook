@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Contact.Api.Model
 {
     public class ContactInfo
-    {
+    { 
         public string PhoneNumber { get; set; }
         public string Email { get; set; }
         public string Location { get; set; }
