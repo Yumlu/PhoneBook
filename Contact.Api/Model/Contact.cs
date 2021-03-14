@@ -3,7 +3,7 @@
 namespace Contact.Api.Model
 {
     public class Contact
-    { 
+    {  
         [BsonId] 
         [BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]
         public string UUID { get; set; }
