@@ -11,5 +11,6 @@ namespace Contact.Api.Controllers
     [ApiController]
     public class ContactController : ControllerBase
     { 
+
     }
 }
