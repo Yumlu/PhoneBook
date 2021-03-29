@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{24967B6C-7A0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contact", "Contact", "{A7697600-DC0E-4FAD-BED7-E7DC6DF7CA4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact.Api", "Contact.Api\Contact.Api.csproj", "{78BC8149-559A-4654-8790-B39D40037039}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contact.Api", "Contact.Api\Contact.Api.csproj", "{78BC8149-559A-4654-8790-B39D40037039}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
